@@ -2,9 +2,9 @@
    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 </p>
 <h1 align="center">Hi 👋, I'm Suman Saha</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Web developer from Kolkata, India</h3>
 
-<img align="right" alt="mario" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="right" alt="mario" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumansaha11&label=Profile%20views&color=0e75b6&style=flat" alt="sumansaha11" /> </p>
 
@@ -16,9 +16,7 @@
 
 - 📫 How to reach me **sumansaha1108@gmail.com**
 
-- 📄 Know about my experiences [wedwwdd.com](wedwwdd.com)
-
-- ⚡ Fun fact **wedewd**
+- ⚡ Fun fact **Not funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
