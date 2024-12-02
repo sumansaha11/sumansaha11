@@ -1,4 +1,4 @@
-![logo](<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0ifI08jQkHcLXup01yW1ue&ust=1733254744613000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjIvJ7riYoDFQAAAAAdAAAAABAE")
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0ifI08jQkHcLXup01yW1ue&ust=1733254744613000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjIvJ7riYoDFQAAAAAdAAAAABAE">
 <h1 align="center">Hi 👋, I'm Suman Saha</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
