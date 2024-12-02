@@ -1,4 +1,6 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0ifI08jQkHcLXup01yW1ue&ust=1733254744613000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjIvJ7riYoDFQAAAAAdAAAAABAE">
+ <p align="center">
+   <img width="200" src="[https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)">
+</p>
 <h1 align="center">Hi 👋, I'm Suman Saha</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
