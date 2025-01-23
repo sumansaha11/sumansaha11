@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Vimio](https://github.com/sumansaha11/vimio-backend)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **PostgreSQL**
 
 - 💬 Ask me about **Javascript, Express**
 
