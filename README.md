@@ -1,7 +1,7 @@
  <p align="center">
    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 </p>
-<h1 align="center">Hi 👋, I'm Suman Saha</h1>
+<h1 align="center">Hii, I'm Suman Saha</h1>
 <h3 align="center">A passionate Web developer from Kolkata, India</h3>
 
 <img align="right" alt="mario" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
